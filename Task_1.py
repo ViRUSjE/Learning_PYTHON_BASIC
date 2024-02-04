@@ -11,4 +11,4 @@ def say_hello(a, b, c, d):
 
 
 if __name__ == '__main__':
-    say_hello(name, surname, sentence, wishes)
+    say_hello(name, surname, SENTENCE, WISHES)
