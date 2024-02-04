@@ -6,6 +6,7 @@ c = "This is string"
 d = True
 e = False
 
+
 "Function print value of variables"
 def print_result():
     print(f'Variable a has value {a}')
