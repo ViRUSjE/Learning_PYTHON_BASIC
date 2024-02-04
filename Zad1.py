@@ -1,8 +1,8 @@
 "These are variables to use in function"
 name = "Milosz"
 surname = "Kraska"
-sentence = "I want to become a programmer and work in your company, that's why I'm creating this portfolio in PyCharm by myself."
-wishes = "Have a nice day"
+SENTENCE = "I want to become a programmer and work in your company, that's why I'm creating this portfolio in PyCharm by myself."
+WISHES = "Have a nice day"
 
 
 """This function says hello, name and surname"""
