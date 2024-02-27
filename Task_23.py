@@ -19,4 +19,12 @@ for nu in numbers:
 
 average = summary / a
 
-print(f"Result: {average}")
+if summary > average:
+    print("The sum is greater!")
+elif summary == average:
+    print("sum = average")
+else:
+    print("The average is greater")
+
+print(f"Sum: {summary}")
+print(f"Average: {average}")
